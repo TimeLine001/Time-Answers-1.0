@@ -1,0 +1,4 @@
+PARTS----------------DBNAME
+blog-----------------blogger
+blab----------------social
+thread--------------post
